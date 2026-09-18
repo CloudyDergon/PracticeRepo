@@ -5,3 +5,4 @@ Hello *Hamburgers* Git Edition
 -Step 2: Add github remote to local repo
 -Step 2: Push local repo to github remote
 -Step 2: Explosion imminent
+-Step 2: Additional explosion but from visual studio
