@@ -1,5 +1,6 @@
 # Hello Github
 Hello *Hamburgers* Git Edition
--Item 1
--Item 2
--Item 3
+-Step 2: Create Local repo
+-Step 2: Create github repo
+-Step 2: Add github remote to local repo
+-Step 2: Push local repo to github remote
